@@ -20,6 +20,10 @@ img {
   max-width: 100%;
 }
 
+.navbar-brand {
+  align-items: center;
+}
+
 blockquote {
   font-size: 28px;
 }
